@@ -1,7 +1,7 @@
 # webapp
 
 ## security
-* **don't'' use shell commands
+* **don't** use shell commands
 * programming the cuntion
 * Programming the functionality
 * treat metacharacter
