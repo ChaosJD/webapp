@@ -2,7 +2,7 @@
 
 ## security
 * **don't** use shell commands
-* programming the cuntion
+* programming the function
 * Programming the functionality
 * treat metacharacter
 * Prevent user input in command arguments
